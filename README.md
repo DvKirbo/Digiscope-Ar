@@ -12,7 +12,7 @@ npm install
 npx expo prebuild
 npx expo run:android
 ```
-Install your prebuild version into your cellphone and 
+Install your prebuild version into your cellphone
 
 ## Running
 ```shell
