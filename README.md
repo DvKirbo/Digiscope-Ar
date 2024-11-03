@@ -6,10 +6,18 @@
 npm install
 ```
 
-## Running
+## Prebuild (emulators don't support arcore)
 
 ```shell
-npm run start`
+npx expo prebuild
+npx expo run:android
+```
+Install your prebuild version into your cellphone and 
+
+## Running
+```shell
+npm run start
+#Press s to change to  development build
 ```
 
 ## Expo Docs
